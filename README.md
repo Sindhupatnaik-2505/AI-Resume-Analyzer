@@ -130,7 +130,7 @@ The application will open automatically in your browser.
 
 ## 📸 Application Screenshot
 
-![AI Resume Analyzer](assets/resume_analyzer.png)
+<img width="1527" height="504" alt="Screenshot 2026-08-02 150444" src="https://github.com/user-attachments/assets/738def2f-c91f-49af-bad5-4c2bff78c0e4" />
 
 ## 🎯 Future Enhancements
 
